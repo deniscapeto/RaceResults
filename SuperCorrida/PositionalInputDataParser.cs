@@ -29,7 +29,7 @@ namespace SuperCorrida
                     string value = line.Substring(item.Item1, item.Item2 - item.Item1);
                     lineArray.Add(value);
                 }
-                result.Add(lineArray);
+                result.Add(lineArray);;
             }
 
             return result;

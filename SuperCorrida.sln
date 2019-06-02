@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperCorrida", "SuperCorrida\SuperCorrida.csproj", "{94A1EFD5-C86A-465B-8ADE-EA6228D01C9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LIbraryTesteStyleCop", "LIbraryTesteStyleCop\LIbraryTesteStyleCop.csproj", "{AA890E64-6F73-4F59-9452-FBF35B39C780}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{94A1EFD5-C86A-465B-8ADE-EA6228D01C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94A1EFD5-C86A-465B-8ADE-EA6228D01C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94A1EFD5-C86A-465B-8ADE-EA6228D01C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA890E64-6F73-4F59-9452-FBF35B39C780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA890E64-6F73-4F59-9452-FBF35B39C780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA890E64-6F73-4F59-9452-FBF35B39C780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA890E64-6F73-4F59-9452-FBF35B39C780}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
